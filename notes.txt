@@ -1,3 +1,4 @@
 Another note about staging and commits.
 Local edit from first copy
 Third local edit
+Unfinished thought
